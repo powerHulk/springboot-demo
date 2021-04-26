@@ -50,7 +50,6 @@ public class TwoSum {
     public static void main(String[] args) {
         Solution solution = new TwoSum().new Solution();
         int[] aaa=new int[]{2,7,11,15};
-
         solution.twoSum(aaa,9);
     }
 
