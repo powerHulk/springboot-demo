@@ -29,3 +29,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+###user
+/src/main/java/leetcode/editor/cn/doc/
