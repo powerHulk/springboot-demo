@@ -1,4 +1,4 @@
-package circlehash;
+package common.circlehash;
 
 import java.nio.ByteBuffer;
 import java.nio.ByteOrder;
